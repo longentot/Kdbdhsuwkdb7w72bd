@@ -1,5 +1,5 @@
 host = "https://meki-seven.vercel.app"
-version = "0.1"
+version = "0.2"
 removed = False
 limit = 7500
 
