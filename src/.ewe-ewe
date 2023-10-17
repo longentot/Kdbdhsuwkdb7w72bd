@@ -1,0 +1,6 @@
+host = "https://meki-seven.vercel.app"
+version = "0.1"
+removed = False
+limit = 7500
+
+
